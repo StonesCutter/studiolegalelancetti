@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Hey! I'm Martino Manzolini",
+    "description":"SOFTWARE ENGINEER - FRONT-END DEVELOPMENT & DESIGN",
+    "image":"profilepic.jpg",
+    "bio":"I was born in Como in 1998. I always combined non-teaching interests, like digital art, 3D modelling and video rendering, with Computer Engineering studies.",
+    "bio2":"I focused my studies on Advanced User Interfaces, and more generally, on the Front-end development of applications, both for academic and extracurricular projects.",
+    "contactmessage":"If you are interested in my work and you'd like to discuss future collaborations, feel free to leave a message in the form below.",
+    "email": "martino.manzolini@gmail.com",
+    "phone": "+39 3495029164",
+    "github":"https://github.com/StonesCutter",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/martino-manzolini/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/martworks_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/StonesCutter",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "programmingLanguages":"C++,   C#,   Java,   Javascript,   MySQL,   HTML & CSS ",
+    "frameworks":"ReactJS,   React Native,   Vuforia Engine,   Microsoft Azure ",
+    "software":"Unity,   3Ds Max,   Gimp,   Pinnacle Studio",
+    "education":[
+      {
+        "school":"Polytechnic University of Milan",
+        "degree":"Computer Science and Engineering",
+        "graduated":"October 2022",
+        "description":"Master's degree program delivered in English, focused on Advanced User Interfaces."
+      },
+      {
+        "school":"Polytechnic University of Milan",
+        "degree":"Computer Science and Engineering",
+        "graduated":"February 2020",
+        "description":"Bachelor's degree program delivered in Italian."
+      }
+    ],
+    "work":[
+      {
+        "company":"Beije - People First",
+        "title":"React developer",
+        "years":"February 2023 - Present",
+        "description":"Software developer using ReactJS and React Native framworks."
+      },
+      {
+        "company":"Honorary Italian Consulate in Varna, Bulgaria",
+        "title":"Freelance Front-end Engineer",
+        "years":"February 2022 - September 2022",
+        "description":"Design and implementation of an Augmented Reality application using Unity3D"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Italian",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"100%"
+      },
+      {
+        "name":"Bulgarian",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
