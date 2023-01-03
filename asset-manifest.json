@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/studiolegalelancetti/static/css/main.31d6cfe0.css",
-    "main.js": "/studiolegalelancetti/static/js/main.ff28e6ce.js",
+    "main.js": "/studiolegalelancetti/static/js/main.4fc60965.js",
     "static/js/787.8dd2b5b2.chunk.js": "/studiolegalelancetti/static/js/787.8dd2b5b2.chunk.js",
     "index.html": "/studiolegalelancetti/index.html",
-    "main.ff28e6ce.js.map": "/studiolegalelancetti/static/js/main.ff28e6ce.js.map",
+    "main.4fc60965.js.map": "/studiolegalelancetti/static/js/main.4fc60965.js.map",
     "787.8dd2b5b2.chunk.js.map": "/studiolegalelancetti/static/js/787.8dd2b5b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ff28e6ce.js"
+    "static/js/main.4fc60965.js"
   ]
 }

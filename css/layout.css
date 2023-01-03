@@ -22,7 +22,12 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { 
+   background: #0f0f0f; 
+   background-size: 100% auto;
+   background-repeat: no-repeat;
+   background-image: url("https://firebasestorage.googleapis.com/v0/b/prova-7aa2f.appspot.com/o/studiolegalelancetti%2Fporlezzaresized.jpg?alt=media&token=5cca41d2-04d1-4232-9926-b335207c7450");
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -149,11 +154,12 @@ header .scrolldown a:hover { color: #0762f9; }
 	 padding: 0;
 	 border: none;
 	 outline: none;
+    padding-top: 0.5%;
 }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 15px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -163,7 +169,7 @@ header .scrolldown a:hover { color: #0762f9; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: white; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -173,7 +179,8 @@ ul#nav {
    width: auto;
 
    /* center align the menu */
-   text-align: center;
+   text-align: right;
+   padding-right: 20%;
 }
 ul#nav li {
    position: relative;
